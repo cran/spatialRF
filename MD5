@@ -1,4 +1,4 @@
-d271fecd1c9c715b374e1d6826266d55 *DESCRIPTION
+74c318ce19d369a0e6ffa5690b2d0537 *DESCRIPTION
 3685e6027de0b927882d75459e1c0fc1 *NAMESPACE
 815c89ed64ba4cbb57364b5b6f47ef6e *NEWS.md
 96f2a18406db41eecae093e1f518ca31 *R/auc.R
@@ -30,7 +30,7 @@ d0c1baaf294b7a95bb7e7603d5df53dd *R/mem.R
 d191926e38ff8267076f9d7d1b74bee3 *R/optimization_function.R
 fa70263f1dfe50c440ef5549d4c484d4 *R/pca.R
 d6df012835b8631fc9d4edde2369e0af *R/pca_multithreshold.R
-fac2003e2c0f7897b01c4c357b840458 *R/plant_richness_df.R
+357fa9ea4972483619c2462b265a37af *R/plant_richness_df.R
 4d4857398f9b90a6a954dc9f5309fd1f *R/plot_evaluation.R
 9de3b4a40b683fe429c3d004daaca576 *R/plot_importance.R
 5f90e7721377636eaca3bc5dc065a594 *R/plot_moran.R
@@ -56,7 +56,7 @@ f5dd6089d9a610e2300b8904dc7d4365 *R/rf_compare.R
 c204b9eec0b382f83ed13273b62d9864 *R/rf_evaluate.R
 bf9e11f7f5f09de601891645ffc763c7 *R/rf_importance.R
 aaf485edf097f6d196fa858eda4112e2 *R/rf_repeat.R
-1e62372706295f5b79dab2851c3b2dd3 *R/rf_spatial.R
+724fde3616f76dadd68d764219906611 *R/rf_spatial.R
 5a62d45bb8e2fe96730c8b27039111ee *R/rf_tuning.R
 b48eea92d53bc1d05dfad8689078728b *R/root_mean_squared_error.R
 fdaf32e91da77aec4e95d6ea7bdaa992 *R/select_spatial_predictors_recursive.R
@@ -68,10 +68,9 @@ d578802a6569201fcbb97117a5e0f4d4 *R/the_feature_engineer.R
 ce3d2e046bb31a1c41d61197320d226a *R/thinning_til_n.R
 129ca707b2fff638794b9ba85aaad70b *R/vif.R
 f9e141bfd1ce623d650e6535bed039b2 *R/weights_from_distance_matrix.R
-81bfa8baa7d05ee4ffe625ab44863375 *build/partial.rdb
 ff923642723600222c08c4c94f772dd0 *data/distance_matrix.rda
 b6b5feff7f50e9051e5c5a37c0b2f215 *data/plant_richness_df.rda
-5dd1e7ce88c2d9d8eb1c630c4f5ed57a *inst/CITATION
+b7c6f023724c939756d3339bcf1e40b3 *inst/CITATION
 de8952a111fc25abcdacbe03eff32c86 *inst/WORDLIST
 8157034ecb2c61ce6a4b1fda26da0d14 *man/auc.Rd
 eadcc16c210d25fcbf36fc22d78d8cf1 *man/auto_cor.Rd
@@ -103,7 +102,7 @@ f6252156589bd46194f80db36468c0b7 *man/objects_size.Rd
 97f00e6082aa0add673ec1a135704de5 *man/optimization_function.Rd
 8d4de1a53e6aaf991d1fd932db6eb187 *man/pca.Rd
 130c87207dad39988de5fd83a82a3b5b *man/pca_multithreshold.Rd
-53a9c75ebfb83856a343bd10854527b0 *man/plant_richness_df.Rd
+40d710ee17d515d718ab5e0b935f7baa *man/plant_richness_df.Rd
 aacba6c8d40e0eb33ee41dcd7348241a *man/plot_evaluation.Rd
 87d4649ce853ec45c83a80e75cf489fc *man/plot_importance.Rd
 94f2eea53ce56ce64a7aaace5072217c *man/plot_moran.Rd
@@ -126,9 +125,9 @@ a066b0e232daf0e93c2dd8b06ec6f002 *man/residuals_diagnostics.Rd
 74c4e68991145117afd40834016eb4a4 *man/rf.Rd
 797bbdbaed30147af2402929a25b7f40 *man/rf_compare.Rd
 c6fe47c28bf4ac5aca36df340e760306 *man/rf_evaluate.Rd
-11c8bbe32094c72c2bb5b77d55c3d1d6 *man/rf_importance.Rd
+da3f42dbd9edeaf0d69055fb128b926d *man/rf_importance.Rd
 9b23b3bfd812e87991ebb10ef48c97e4 *man/rf_repeat.Rd
-6b870c1e0b617890fe8752bbcc0e208b *man/rf_spatial.Rd
+92ae573d6939ceacec2ee549aac64d41 *man/rf_spatial.Rd
 5507a3ced7d92bf90bbcee57ec280b44 *man/rf_tuning.Rd
 256c611a6778a1df6a80db1f88e5cf8e *man/root_mean_squared_error.Rd
 b3d7cbb0d2bf6f99bf800a500d513ae3 *man/select_spatial_predictors_recursive.Rd
